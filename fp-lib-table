@@ -5,4 +5,5 @@
   (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/Keebio-Parts.pretty)(options "")(descr ""))
   (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/Type-C.pretty)(options "")(descr ""))
   (lib (name WS2812B)(type KiCad)(uri ${KIPRJMOD}/WS2812B.pretty)(options "")(descr ""))
+  (lib (name cftkb)(type KiCad)(uri ${KIPRJMOD}/discipline/cftkb.pretty)(options "")(descr ""))
 )

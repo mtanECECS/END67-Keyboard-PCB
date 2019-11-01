@@ -4,4 +4,5 @@
   (lib (name is31fl3731)(type Legacy)(uri ${KIPRJMOD}/keyboard_parts.pretty/is31fl3731.lib)(options "")(descr ""))
   (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/Type-C.pretty/Type-C.lib)(options "")(descr ""))
   (lib (name ws2812b)(type Legacy)(uri ${KIPRJMOD}/WS2812B.pretty/Schematic-Symbol/ws2812b.lib)(options "")(descr ""))
+  (lib (name discipline-pcb-cache)(type Legacy)(uri ${KIPRJMOD}/discipline/discipline-pcb-cache.lib)(options "")(descr ""))
 )
