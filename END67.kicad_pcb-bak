@@ -60,7 +60,7 @@
     (pad_to_mask_clearance 0.051)
     (solder_mask_min_width 0.25)
     (aux_axis_origin 0 0)
-    (visible_elements 7FFFFFFF)
+    (visible_elements FFFFFF7F)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
@@ -357,7 +357,7 @@
   )
 
   (module random-keyboard-parts:Molex-0548190589 (layer F.Cu) (tedit 5C494815) (tstamp 5DC86117)
-    (at 277.55625 278.71325)
+    (at 278.35 214.4195)
     (path /5DC754B8)
     (attr smd)
     (fp_text reference USB1 (at 2.032 0 90) (layer F.SilkS)
@@ -408,7 +408,7 @@
   )
 
   (module Package_QFP:TQFP-44_10x10mm_P0.8mm (layer F.Cu) (tedit 5A02F146) (tstamp 5DC86197)
-    (at 322.01625 340.75125)
+    (at 322.81 276.4575)
     (descr "44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "QFP 0.8")
     (path /5DBB7814)
@@ -648,7 +648,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer F.Cu) (tedit 5B36C52B) (tstamp 5DC8628B)
-    (at 275.60625 292.03125)
+    (at 276.4 227.7375)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5DBCCA48)
@@ -684,7 +684,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer F.Cu) (tedit 5B36C52B) (tstamp 5DC862BB)
-    (at 280.35625 292.03125)
+    (at 281.15 227.7375)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5DC01CC8)
@@ -3050,7 +3050,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5DC85687)
-    (at 198.4375 298.45)
+    (at 158.7 315.9375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5DDE4FD7)
@@ -3094,7 +3094,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5DC84CAF)
-    (at 192.88125 298.45)
+    (at 210.45 315.9375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5DDE4FCA)
@@ -3138,7 +3138,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5DC8563F)
-    (at 187.325 298.45)
+    (at 187.45 315.9375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5DDE4FBD)
@@ -3182,7 +3182,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5DC856CF)
-    (at 181.76875 298.45)
+    (at 265.43375 268.535)
     (descr SOD-123)
     (tags SOD-123)
     (path /5DDE4FB0)
@@ -3226,7 +3226,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5DC84CF7)
-    (at 176.2125 298.45)
+    (at 147.2 318.2375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5DDE4FA3)
@@ -3402,7 +3402,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5DC84DCF)
-    (at 176.2125 293.6875)
+    (at 159.6 312.5875)
     (descr SOD-123)
     (tags SOD-123)
     (path /5DDC8CF4)
@@ -3490,7 +3490,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5DC84E5F)
-    (at 192.88125 288.925)
+    (at 152.95 315.9375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5DDB1811)
@@ -3622,7 +3622,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5DC84F7F)
-    (at 176.2125 288.925)
+    (at 164.45 315.9375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5DDB17EA)
@@ -4106,7 +4106,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5DC8536F)
-    (at 153.9875 298.45)
+    (at 188.35 312.5875)
     (descr SOD-123)
     (tags SOD-123)
     (path /5DDE4F6F)
@@ -4150,7 +4150,7 @@
   )
 
   (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5DC8524F)
-    (at 130.96875 298.45)
+    (at 238.99375 276.00625)
     (descr SOD-123)
     (tags SOD-123)
     (path /5DDE4FF1)
