@@ -174,7 +174,7 @@ L Device:C_Small C7
 U 1 1 5DBD633A
 P 1750 3750
 F 0 "C7" H 1842 3796 50  0000 L CNN
-F 1 "0.1uF" H 1842 3705 50  0000 L CNN
+F 1 "10uF" H 1842 3705 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1750 3750 50  0001 C CNN
 F 3 "~" H 1750 3750 50  0001 C CNN
 	1    1750 3750
@@ -2207,13 +2207,13 @@ Wire Wire Line
 	3350 3800 3450 3800
 Wire Wire Line
 	3350 3700 3450 3700
-Text GLabel 3450 2500 2    50   Input ~ 0
-COL14
-Text GLabel 3450 2600 2    50   Input ~ 0
-COL13
-Text GLabel 3450 2700 2    50   Input ~ 0
-COL12
 Text GLabel 3450 2800 2    50   Input ~ 0
+COL14
+Text GLabel 3450 2700 2    50   Input ~ 0
+COL13
+Text GLabel 3450 2600 2    50   Input ~ 0
+COL12
+Text GLabel 3450 2500 2    50   Input ~ 0
 COL11
 Text GLabel 3450 2900 2    50   Input ~ 0
 COL10
